@@ -7,6 +7,9 @@ Um projeto de sistema bancário simples criado em Python com interface gráfica 
 - **Depósito:** Adicione dinheiro à sua conta.
 - **Saque:** Retire dinheiro da sua conta.
 - **Extrato:** Veja suas transações e saldo.
+- **Novo usuário:** Crie um novo perfil de usuário.
+- **Nova conta:** Abra uma nova conta bancária.
+- **Listar contas:** Veja todas as contas cadastradas.
 - **Sair:** Encerre o aplicativo.
 
 ### Tecnologias 🚀
